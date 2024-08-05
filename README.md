@@ -17,9 +17,6 @@ I'm a passionate **Junior Fullstack Developer** specializing in **backend develo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📈 GitHub Stats
-
-![TECHDEVPOL](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 
@@ -31,9 +28,6 @@ I'm a passionate **Junior Fullstack Developer** specializing in **backend develo
 
 - Email: [techdevpol@gmail.com](mailto:techdevpol@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/pol-miró/)
-- 
-![Footer](https://your-image-url.com/footer.png)
-
 
 ## 💬 Quote
 
