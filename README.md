@@ -25,7 +25,7 @@ I'm a passionate **Junior Fullstack Developer** specializing in **backend develo
 ## 📫 How to reach me
 
 - Email: [techdevpol@gmail.com](mailto:techdevpol@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/pol-miró/)
+- LinkedIn: [Pol Miró](https://www.linkedin.com/in/pol-miró/)
 
 ## 💬 Quote
 
