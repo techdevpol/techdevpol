@@ -1,6 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
-
-![Header](https://your-image-url.com/header.png)
+# Hi there, I'm Pol! 👋
 
 I'm a passionate **Junior Fullstack Developer** specializing in **backend development** and **JavaScript**. I love building robust and scalable applications that make a difference. Currently, I'm honing my skills and exploring new technologies to grow as a developer.
 
