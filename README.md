@@ -19,6 +19,7 @@ I'm a passionate **Junior Fullstack Developer** specializing in **backend develo
 ## 🌱 Currently Learning
 
 - Advanced Node.js
+- Tailwind
 - TypeScript
 - Docker & Kubernetes
 
